@@ -1,8 +1,11 @@
 body{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
-  rgba(0, 0, 0, 0.5)), url("./assets/banner.jpg");
+  background-color: black;
 }
 
+.calling-card{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.5)), url("./assets/banner.jpg");
+}
 
 
 .logo-image{
